@@ -1,6 +1,6 @@
 # Network Programming
 
-## C++ implementation for `Web server` and `Multi-Client-Chat server` on the Windows environment.
+## C++ implementation of `Web server` and `Multi-Client-Chat server` on the Windows environment.
 
 * A simple web server listens for TCP connections, parses HTTP requests, and responds to clients.
 * A multi-client-chat server listens for TCP connections, receives messages from a client, and broadcasts to others.
